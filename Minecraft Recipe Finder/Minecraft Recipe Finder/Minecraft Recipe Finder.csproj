@@ -64,6 +64,12 @@
     <Compile Include="forms\coarse_dirt.Designer.cs">
       <DependentUpon>coarse_dirt.cs</DependentUpon>
     </Compile>
+    <Compile Include="forms\cut_sandstone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\cut_sandstone.Designer.cs">
+      <DependentUpon>cut_sandstone.cs</DependentUpon>
+    </Compile>
     <Compile Include="forms\lapis_block.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +81,12 @@
     </Compile>
     <Compile Include="forms\planks.Designer.cs">
       <DependentUpon>planks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\sandstone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\sandstone.Designer.cs">
+      <DependentUpon>sandstone.cs</DependentUpon>
     </Compile>
     <Compile Include="forms\stained_glass.cs">
       <SubType>Form</SubType>
@@ -99,11 +111,17 @@
     <EmbeddedResource Include="forms\coarse_dirt.resx">
       <DependentUpon>coarse_dirt.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="forms\cut_sandstone.resx">
+      <DependentUpon>cut_sandstone.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="forms\lapis_block.resx">
       <DependentUpon>lapis_block.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="forms\planks.resx">
       <DependentUpon>planks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\sandstone.resx">
+      <DependentUpon>sandstone.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="forms\stained_glass.resx">
       <DependentUpon>stained_glass.cs</DependentUpon>

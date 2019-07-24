@@ -47,5 +47,17 @@ namespace Minecraft_Recipe_Finder
             lapis_block lapis_block = new lapis_block();
             lapis_block.ShowDialog();
         }
+
+        private void Button6_Click(object sender, EventArgs e)
+        {
+            sandstone sandstone = new sandstone();
+            sandstone.ShowDialog();
+        }
+
+        private void Button7_Click(object sender, EventArgs e)
+        {
+            cut_sandstone cut_sandstone = new cut_sandstone();
+            cut_sandstone.ShowDialog();
+        }
     }
 }

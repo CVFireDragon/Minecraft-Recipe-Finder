@@ -14,3 +14,5 @@ C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\D
 C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.forms.wood.resources
 C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.forms.stained_glass.resources
 C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.forms.lapis_block.resources
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.forms.sandstone.resources
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.forms.cut_sandstone.resources
