@@ -77,5 +77,17 @@ namespace Minecraft_Recipe_Finder
             chiseled_sandstone chiseled_sandstone = new chiseled_sandstone();
             chiseled_sandstone.ShowDialog();
         }
+
+        private void Button12_Click(object sender, EventArgs e)
+        {
+            gold_block gold_block = new gold_block();
+            gold_block.ShowDialog();
+        }
+
+        private void Button13_Click(object sender, EventArgs e)
+        {
+            iron_block iron_block = new iron_block();
+            iron_block.ShowDialog();
+        }
     }
 }
