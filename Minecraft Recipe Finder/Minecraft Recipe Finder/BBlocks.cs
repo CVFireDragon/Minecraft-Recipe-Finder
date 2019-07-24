@@ -41,5 +41,11 @@ namespace Minecraft_Recipe_Finder
             stained_glass stained_glass = new stained_glass();
             stained_glass.ShowDialog();
         }
+
+        private void Button5_Click(object sender, EventArgs e)
+        {
+            lapis_block lapis_block = new lapis_block();
+            lapis_block.ShowDialog();
+        }
     }
 }

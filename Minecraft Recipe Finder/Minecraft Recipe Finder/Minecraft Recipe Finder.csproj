@@ -64,6 +64,12 @@
     <Compile Include="forms\coarse_dirt.Designer.cs">
       <DependentUpon>coarse_dirt.cs</DependentUpon>
     </Compile>
+    <Compile Include="forms\lapis_block.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\lapis_block.Designer.cs">
+      <DependentUpon>lapis_block.cs</DependentUpon>
+    </Compile>
     <Compile Include="forms\planks.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,6 +98,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="forms\coarse_dirt.resx">
       <DependentUpon>coarse_dirt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\lapis_block.resx">
+      <DependentUpon>lapis_block.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="forms\planks.resx">
       <DependentUpon>planks.cs</DependentUpon>
