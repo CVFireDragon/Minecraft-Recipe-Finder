@@ -17,3 +17,4 @@ C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\D
 C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.forms.sandstone.resources
 C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.forms.cut_sandstone.resources
 C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.forms.chiseled_sandstone.resources
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.forms.dyed_wool.resources

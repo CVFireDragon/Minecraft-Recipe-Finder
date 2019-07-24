@@ -76,6 +76,12 @@
     <Compile Include="forms\cut_sandstone.Designer.cs">
       <DependentUpon>cut_sandstone.cs</DependentUpon>
     </Compile>
+    <Compile Include="forms\dyed_wool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\dyed_wool.Designer.cs">
+      <DependentUpon>dyed_wool.cs</DependentUpon>
+    </Compile>
     <Compile Include="forms\lapis_block.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -122,6 +128,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="forms\cut_sandstone.resx">
       <DependentUpon>cut_sandstone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\dyed_wool.resx">
+      <DependentUpon>dyed_wool.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="forms\lapis_block.resx">
       <DependentUpon>lapis_block.cs</DependentUpon>
