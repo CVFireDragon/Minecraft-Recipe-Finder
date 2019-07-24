@@ -1,2 +1,2 @@
 # Minecraft-Recipe-Finder [WIP]
-[WIP] Gives you a recipe for each item (if they have one). They are in categories.
+[WIP] C# App that gives you a recipe for most minecraft items. 
