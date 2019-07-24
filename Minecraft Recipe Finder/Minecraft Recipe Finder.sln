@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft Recipe Finder", "Minecraft Recipe Finder\Minecraft Recipe Finder.csproj", "{43BB4CC1-D384-491C-8A58-43F976F7A50D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43BB4CC1-D384-491C-8A58-43F976F7A50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BB4CC1-D384-491C-8A58-43F976F7A50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BB4CC1-D384-491C-8A58-43F976F7A50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BB4CC1-D384-491C-8A58-43F976F7A50D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B976883E-8B28-488E-9C8A-B5FFA351D941}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\bin\Debug\Minecraft Recipe Finder.exe.config
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\bin\Debug\Minecraft Recipe Finder.exe
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\bin\Debug\Minecraft Recipe Finder.pdb
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft Recipe Finder.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.Form1.resources
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.Properties.Resources.resources
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft Recipe Finder.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft Recipe Finder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft Recipe Finder.exe
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft Recipe Finder.pdb
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.BBlocks.resources
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.forms.coarse_dirt.resources
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.forms.planks.resources
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.forms.wood.resources
+C:\Users\User\source\repos\Minecraft Recipe Finder\Minecraft Recipe Finder\obj\Debug\Minecraft_Recipe_Finder.forms.stained_glass.resources
