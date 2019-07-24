@@ -59,5 +59,23 @@ namespace Minecraft_Recipe_Finder
             cut_sandstone cut_sandstone = new cut_sandstone();
             cut_sandstone.ShowDialog();
         }
+
+        private void Button8_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form1 Form1 = new Form1();
+            Form1.Show();
+        }
+
+        private void Button9_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.Application.Exit();
+        }
+
+        private void Button10_Click(object sender, EventArgs e)
+        {
+            chiseled_sandstone chiseled_sandstone = new chiseled_sandstone();
+            chiseled_sandstone.ShowDialog();
+        }
     }
 }

@@ -58,6 +58,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="forms\chiseled_sandstone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\chiseled_sandstone.Designer.cs">
+      <DependentUpon>chiseled_sandstone.cs</DependentUpon>
+    </Compile>
     <Compile Include="forms\coarse_dirt.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -107,6 +113,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\chiseled_sandstone.resx">
+      <DependentUpon>chiseled_sandstone.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="forms\coarse_dirt.resx">
       <DependentUpon>coarse_dirt.cs</DependentUpon>

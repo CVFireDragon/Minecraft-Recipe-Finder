@@ -23,5 +23,10 @@ namespace Minecraft_Recipe_Finder
             BBlocks bb = new BBlocks();
             bb.ShowDialog();
         }
+
+        private void Button9_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.Application.Exit();
+        }
     }
 }
