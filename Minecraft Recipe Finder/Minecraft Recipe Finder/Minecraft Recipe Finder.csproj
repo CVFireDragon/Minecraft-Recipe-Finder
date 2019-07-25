@@ -112,6 +112,12 @@
     <Compile Include="forms\sandstone.Designer.cs">
       <DependentUpon>sandstone.cs</DependentUpon>
     </Compile>
+    <Compile Include="forms\slabs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\slabs.Designer.cs">
+      <DependentUpon>slabs.cs</DependentUpon>
+    </Compile>
     <Compile Include="forms\stained_glass.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -158,6 +164,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="forms\sandstone.resx">
       <DependentUpon>sandstone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\slabs.resx">
+      <DependentUpon>slabs.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="forms\stained_glass.resx">
       <DependentUpon>stained_glass.cs</DependentUpon>

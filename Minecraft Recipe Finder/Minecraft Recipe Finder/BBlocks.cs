@@ -89,5 +89,11 @@ namespace Minecraft_Recipe_Finder
             iron_block iron_block = new iron_block();
             iron_block.ShowDialog();
         }
+
+        private void Button14_Click(object sender, EventArgs e)
+        {
+            slabs slabs = new slabs();
+            slabs.ShowDialog();
+        }
     }
 }
